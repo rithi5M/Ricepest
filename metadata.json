@@ -1,0 +1,7 @@
+{
+  "name": "RiceGuard TN: AI Pest Assistant",
+  "description": "An AI-powered assistant for rice farmers in Tamil Nadu to predict pest risks, detect pests from images, and get agricultural advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
